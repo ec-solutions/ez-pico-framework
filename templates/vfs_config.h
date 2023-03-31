@@ -1,7 +1,7 @@
 /* 
 
 WIKI:
-        https://github.com/Wiz-IO/wizio-pico/wiki/ARDUINO#vfs--file-system
+        https://github.com/ec-solutions/ez-pico/wiki/ARDUINO#vfs--file-system
 
 OTHER USER CONFIG KEYS
 
