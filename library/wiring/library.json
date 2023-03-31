@@ -1,0 +1,9 @@
+{
+    "name": "wiring",   
+    "platforms" : ["wizio-pico"], 
+    "frameworks": ["baremetal"],
+    "export": {
+        "exclude": [], 
+        "include": null
+    }
+}
